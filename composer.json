@@ -24,6 +24,7 @@
     "php": ">=7.0",
     "laravel/framework": "5.4.*",
     "cviebrock/eloquent-sluggable": "^4.1",
+    "h4cc/wkhtmltopdf-amd64": "0.12.3",
     "baum/baum": "^1.1",
     "guzzlehttp/guzzle": "~5.3|~6.0",
     "intervention/image": "^2.3",
